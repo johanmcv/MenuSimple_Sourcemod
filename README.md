@@ -18,7 +18,7 @@ Anyone can make use of this menu for their liking, however all the changes that 
 
 ## Preview
 
-![Image text](screenshot.jpg)
+![Image text](screenshot.JPG)
 
 ## Version 1.0.1
 ```
