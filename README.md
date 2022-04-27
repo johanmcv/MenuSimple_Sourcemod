@@ -2,7 +2,7 @@
     <img src="https://img.shields.io/badge/version-1.0.1-green?style=for-the-badge" alt="version"></a>&nbsp;
     <a href="https://wiki.alliedmods.net/Introduction_to_SourcePawn_1.7"> <img src="https://img.shields.io/badge/LANGUAGE-SourcePawn-important?style=for-the-badge&logo=SourceEngine" alt="language"></a>&nbsp;
     <a href="https://www.sourcemod.net/"> <img src="https://img.shields.io/badge/csgo-sourcemod-blue?style=for-the-badge&logo=CounterStrike" alt="language"></a>&nbsp;
-    <a href="https://www.linkedin.com/in/johanvillamizar/"> <img src="https://img.shields.io/badge/for-dev-red?style=for-the-badge" alt="language"></a>  
+    <img src="https://img.shields.io/badge/for-dev-red?style=for-the-badge" alt="language">
 </p><br>
 
 # Menu Simple
@@ -21,9 +21,9 @@ Anyone can make use of this menu for their liking, however all the changes that 
 ![Image text](screenshot.JPG)
 
 ## Version 1.0.1
-```
+
 In the first version the menu does not work due to programming errors _(my fault)_, they are already corrected and the code is functional.
-```
+
 * Fixed bugs that prevented the in-game menu from being displayed
 * The option that allows to show and its respective time is added
 * The option to exit in an optimal way is added according to the documentation.
