@@ -41,4 +41,3 @@ Put the compiled code in the plugins folder
 addons/sourcemod/plugins
 ```
 ---
-❤️ by [Johan Villamizar](https://johanvillamizar.com) 😊
