@@ -18,7 +18,7 @@ public Plugin myinfo =
 	author = PLUGIN_AUTHOR,
 	description = "Code example for creating a simple menu",
 	version = PLUGIN_VERSION,
-	url = "https://www.johanvillamizar.com"
+	url = ""
 };
 
 public void OnPluginStart()
